@@ -1,0 +1,26 @@
+Components:
+
+-ESP32-WROOM-32
+
+-OLED display (SSD1306, I2C)
+
+-Push button
+
+-Breadboard
+
+-Jumper wires
+
+Wiring:
+
+OLED display:
+
+OLED  ESP32
+
+VCC   3V3
+GND   GND
+SDA   D21
+SCL   D22
+
+Push button:
+One side → D18
+Other side → GND
